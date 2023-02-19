@@ -11,3 +11,6 @@ To run this project, you will need the following software and hardware:
     * PySimpleGUI
     * Backtrader
     * Pyfolio
+## Installation
+To install the required libraries, run the following command in your terminal:
+    * pip install pandas matplotlib scikit-learn yfinance PySimpleGUI backtrader pyfolio

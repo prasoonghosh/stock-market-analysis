@@ -1,1 +1,2 @@
 # Stock Market Analysis Project
+This is a comprehensive and scalable stock market analysis project built in Python. The project is designed to provide users with tools for acquiring, cleaning, and analyzing financial data, as well as training and testing machine learning models for prediction and backtesting. The project includes a user-friendly GUI for inputting ticker symbols, start and end dates, and selecting chart types and modeling methods.

@@ -20,3 +20,14 @@ To use this project, follow these steps:
     1) Run the main.py file in your Python environment.
     2) Input the ticker symbol, start and end dates, and select chart types and modeling methods using the GUI.
     3) Click the "Submit" button to save the data to a CSV file and display the chart or model output.
+## Reference
+The project is based on the following resources:
+    * [Pandas Documentation]https://pandas.pydata.org/docs/
+    * [NumPy Documentation]https://numpy.org/doc/
+    * [seaborn Documentation]https://seaborn.pydata.org/
+    * [Yahoo Finance API Documentation]https://pypi.org/project/yfinance/
+    * [System-specific parameters and functions Documentation]https://docs.python.org/3/library/sys.html
+    * [tkinter Documentation]https://docs.python.org/3/library/tkinter.html
+    * [warnings Documentation]https://docs.python.org/3/library/warnings.html
+    * [Matplotlib Documentation]https://matplotlib.org/stable/contents.html
+    * [Scikit-learn Documentation]https://scikit-learn.org/stable/documentation.html

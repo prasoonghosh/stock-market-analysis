@@ -13,7 +13,7 @@ To run this project, you will need the following software and hardware:
 ## Installation
 To install the required libraries, run the following command in your terminal:
 
-    * pip install pandas matplotlib scikit-learn yfinance PySimpleGUI backtrader pyfolio
+    * pip install pandas matplotlib scikit-learn yfinance warnings os-sys seaborn numpy pandas-datareader tk
 
 ## Usage
 To use this project, follow these steps:
